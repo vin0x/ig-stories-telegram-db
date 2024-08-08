@@ -14,10 +14,10 @@ _**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fa
 
 ## Example
 
-![Sample Image](images/Capture.png)
-![Sample Image](images/Capture2.png)
-![Sample Image](images/Capture3.png)
-![Sample Image](images/Capture4.png)
+![Sample Image](images/Capture.PNG)
+![Sample Image](images/Capture2.PNG)
+![Sample Image](images/Capture3.PNG)
+![Sample Image](images/Capture4.PNG)
 
 
 ## Requirements
