@@ -2,6 +2,8 @@
 
 This project is a Telegram bot that downloads Instagram stories and stores them in a SQLite database. It allows users to download stories from Instagram profiles, view downloaded stories, and export the data as a CSV file.
 
+__**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fans with athletes' Instagram profiles and build a database of their memorable moments. Feel free to adapt this bot to suit your specific use case and research needs.__
+
 ## Features
 
 - Download Instagram stories from public profiles
@@ -42,7 +44,7 @@ pip install python-telegram-bot instaloader pandas
    - Replace the `api_key` in `bot.py` with your bot’s API key.
 
 2. **Create a Session File for Instaloader**:
-   - Use `instaloader` to log in and create a session file or log in Instagram using Firefox and run the `importfirefoxsession`.
+   - Use `instaloader` to log in and create a session file or log in Instagram using Firefox and run the `importfirefoxsession.py`.
    - Run `instaloader --login your_username` and follow the prompts.
    - Save the session file with the name `session-topcortessecos` or modify the code to match your session file name.
 
@@ -51,7 +53,7 @@ pip install python-telegram-bot instaloader pandas
 Start the bot with:
 
 ```bash
-python bot.py
+python telegrambot.py
 ```
 
 The bot will now be running and listening for commands on Telegram.
@@ -76,14 +78,10 @@ The `/viewtable` command generates a CSV file with the following columns:
 
 The file is sent as a document through Telegram.
 
-## Contributing
-
-Feel free to submit issues and pull requests. Please ensure that any changes follow the existing code style and include appropriate tests.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions or need further assistance, please reach out to [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, feel free to reach out [your-email@example.com](mailto:vinigoes@outlook.com) or vinox_quente on Discord.
