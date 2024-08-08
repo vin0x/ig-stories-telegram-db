@@ -13,11 +13,9 @@ _**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fa
 - Export stories data to a CSV file
 
 ## Example
-
-![Sample Image](images/Capture.PNG)
-![Sample Image](images/Capture2.PNG)
-![Sample Image](images/Capture3.PNG)
-![Sample Image](images/Capture4.PNG)
+<div>
+  <img src="images/Capture.PNG" width="300" />
+  <img src="images/Capture2.PNG" width="300" />
 
 
 ## Requirements
