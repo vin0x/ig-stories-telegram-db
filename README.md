@@ -9,7 +9,7 @@ _**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fa
 - Download Instagram stories from public profiles
 - View downloaded stories
 - Retrieve stories by Instagram user or Telegram user
-- Saved histories are in a SQLite
+- Saved stories are stored in a SQLite table
 - Export stories data to a CSV file
 
 ## Example
