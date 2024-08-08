@@ -12,6 +12,14 @@ _**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fa
 - Saved histories are in a SQLite
 - Export stories data to a CSV file
 
+## Example
+
+![Sample Image](images/Capture.png)
+![Sample Image](images/Capture2.png)
+![Sample Image](images/Capture3.png)
+![Sample Image](images/Capture4.png)
+
+
 ## Requirements
 
 - Python 3.x
