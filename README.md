@@ -2,7 +2,7 @@
 
 This project is a Telegram bot that downloads Instagram stories and stores them in a SQLite database. It allows users to download stories from Instagram profiles, view downloaded stories, and export the data as a CSV file.
 
-__**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fans with athletes' Instagram profiles and build a database of their memorable moments. Feel free to adapt this bot to suit your specific use case and research needs.__
+_**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fans with athletes' Instagram profiles and build a database of their memorable moments. Feel free to adapt this bot to suit your specific use case and research needs._
 
 ## Features
 
