@@ -19,8 +19,10 @@ _**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fa
 </div>
 <div>
   <img src="images/Capture3.PNG" width="300" />
-  <img src="images/Capture4.PNG" width="300" />
+  <img src="images/Capture5.PNG" width="300" />
 </div>
+Example of the data that was stored in the stories.db table in SQLite, converted to .csv to be sent via Telegram.
+  <img src="images/Capture4.PNG">
 
 ## Requirements
 
