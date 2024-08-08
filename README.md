@@ -13,13 +13,9 @@ _**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fa
 - Export stories data to a CSV file
 
 ## Example
-1#
   <img src="images/Capture.PNG" width="300" />
-2#
   <img src="images/Capture2.PNG" width="300" />
-3#
   <img src="images/Capture3.PNG" width="300" />
-4#
   <img src="images/Capture5.PNG" width="500" />
 
 Example of the data that was stored in the `stories.db` table in SQLite, converted to .csv to be sent via Telegram.
