@@ -1,4 +1,4 @@
-# Instagram Stories Downloader and Store Bot
+# Instagram Stories Downloader Bot
 
 This project is a Telegram bot that downloads Instagram stories and stores them in a SQLite database. It allows users to download stories from Instagram profiles, view downloaded stories, and export the data as a CSV file.
 
