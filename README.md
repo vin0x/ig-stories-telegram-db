@@ -12,6 +12,18 @@ _**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fa
 - Saved histories are in a SQLite
 - Export stories data to a CSV file
 
+## Example
+<div>
+  <img src="images/Capture.PNG" width="300" />
+  <img src="images/Capture2.PNG" width="300" />
+</div>
+<div>
+  <img src="images/Capture3.PNG" width="300" />
+  <img src="images/Capture5.PNG" width="300" />
+</div>
+Example of the data that was stored in the stories.db table in SQLite, converted to .csv to be sent via Telegram.
+  <img src="images/Capture4.PNG">
+
 ## Requirements
 
 - Python 3.x
