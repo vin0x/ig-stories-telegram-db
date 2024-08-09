@@ -1,8 +1,10 @@
 # Instagram Stories Downloader Bot
 
+## About
+
 This project is a Telegram bot that downloads Instagram stories and stores them in a SQLite database. It allows users to download stories from Instagram profiles, view downloaded stories, and export the data as a CSV file.
 
-_**PS:** This bot was used during the **Paris 2024 Olympic Games** to connect fans with athletes Instagram profiles and build a database of their memorable moments, this sample version of the project uses a smaller dataset to demonstrate key features with reduced complexity. Feel free to adapt this bot to suit your specific use case and research needs._
+Used during the **Paris 2024 Olympic Games** to connect fans with athletes Instagram profiles and build a database of their memorable moments, this sample version of the project uses a smaller dataset to demonstrate key features with reduced complexity. Feel free to adapt this bot to suit your specific use case and research needs._
 
 ## Features
 
@@ -24,10 +26,11 @@ Example of the data that was stored in the `stories.db` table in SQLite, convert
 ## Requirements
 
 - Python 3.x
+- Telegram Account
 - `python-telegram-bot` library
 - `instaloader` library
 - `sqlite3` library (included with Python)
-- `pandas` library (optional for advanced data manipulation)
+- `pandas` library (optional for data manipulation using .csv file)
 
 ## Setup
 
