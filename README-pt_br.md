@@ -67,6 +67,7 @@ Inicie o bot com:
 
 ```bash
 python telegrambot.py
+```
 
 O bot agora estará em execução e aguardando comandos no Telegram.
 
