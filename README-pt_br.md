@@ -42,7 +42,7 @@ Exemplo dos dados armazenados na tabela `stories.db` no SQLite, convertidos para
 ```bash
 git clone https://github.com/yourusername/instagram-stories-downloader-bot.git
 cd instagram-stories-downloader-bot
-
+```
 
 ### 2. Instalar dependências
 
@@ -50,6 +50,7 @@ Garanta que você tem `pip` instalado, então rode o comando:
 
 ```bash
 pip install python-telegram-bot instaloader pandas
+```
 
 ### 3. Configurar o Bot
 
