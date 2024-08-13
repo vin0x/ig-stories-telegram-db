@@ -1,6 +1,6 @@
 # Instagram Stories Downloader Bot
-[README in PT-BR: <img align="center" alt="vin0x-windows" height="25" width="40" src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/png-200/01-brasil-rounded.png">](https://github.com/vin0x/ig-stories-telegram-db/edit/main/README-pt_br.md)
-
+README in PT-BR: [<img align="center" alt="vin0x-brasil" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
+README in EN-US: [<img align="center" alt="vin0x-windows" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
 
 ## About
 
