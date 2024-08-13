@@ -28,7 +28,7 @@ Example of the data that was stored in the `stories.db` table in SQLite, convert
 
 ## Requirements
 
-- Python 3.x 🐍🐍 🇧🇷
+- Python 3.x 🐍🐍
 - Telegram Account
 - `python-telegram-bot` library
 - `instaloader` library
