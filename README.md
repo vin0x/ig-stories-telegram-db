@@ -1,7 +1,7 @@
 # Instagram Stories Downloader Bot
-- README em Português: [<img align="center" alt="vin0x-brasil" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
+- README em Português, clique aqui -> [<img align="center" alt="vin0x-brasil" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
 
-- README in English: [<img align="center" alt="vin0x-windows" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
+- README in English, click here -> [<img align="center" alt="vin0x-windows" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
 
 ## About
 
