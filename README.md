@@ -1,4 +1,6 @@
 # Instagram Stories Downloader Bot
+[README in PT-BR](https://github.com/vin0x/ig-stories-telegram-db/edit/main/README-pt_br.md)<img align="center" alt="vin0x-windows" height="40" width="50" src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/png-200/01-brasil-rounded.png">
+
 
 ## About
 
