@@ -1,7 +1,7 @@
 # Instagram Stories Downloader Bot
-- README em Português, clique aqui -> [<img align="center" alt="vin0x-brasil" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
+- README em Português, clique aqui -> [<img align="center" alt="vin0x-brasil" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README-pt_br.md)
 
-- README in English, click here -> [<img align="center" alt="vin0x-windows" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README.md)
+- README in English, click here -> [<img align="center" alt="vin0x-windows" height="25" width="40" src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg">](https://github.com/vin0x/ig-stories-telegram-db/blob/main/README.md)
 
 ## About
 
@@ -40,7 +40,7 @@ Example of the data that was stored in the `stories.db` table in SQLite, convert
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/instagram-stories-downloader-bot.git
+git clone https://github.com/vin0x/instagram-stories-downloader-bot.git
 cd instagram-stories-downloader-bot
 ```
 
